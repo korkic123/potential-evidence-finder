@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+field_collector/results/*.pefpack
+field_collector/.pef_work/
+case_manager/cases/*.db
+case_manager/demo_packages/
+*.db-journal
+.build/
+dist/
+release/*
+!release/README.md

@@ -17,3 +17,8 @@ Field Collector intentionally uses PyInstaller `onedir` instead of `onefile` to 
 The source tree has no third-party runtime dependency. PyInstaller is a **build-only** dependency and is isolated under `build/requirements-build.txt`.
 
 See `README_KO.md` for the detailed workflow and `build/BUILDING.md` for Windows build instructions.
+
+
+## License
+
+Licensed under the Apache License 2.0. See `LICENSE`.
